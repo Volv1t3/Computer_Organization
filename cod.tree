@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="cod"
+                  name="Computer Organization | Documentation"
+                  start-page="starter-topic.md"
+                  is-library="true">
+
+    <toc-element topic="starter-topic.md"/>
+    <toc-element toc-title="Unit One">
+        <toc-element toc-title="Week One">
+            <toc-element origin="Writerside"
+                         toc-title=""
+                         topic="Class-1-Introduction-to-Computer-Organization.md"/>
+            <toc-element topic="Class-2―Numerical-Systems.md"/>
+            <toc-element topic="class23Jan.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="Homework ">
+        <toc-element topic="Homework-Module-1-―-My-First-Assembler-―-Santiago-Arellano-00328370.md"/>
+    </toc-element>
+</instance-profile>
